@@ -6,3 +6,4 @@
 - CSS3
 - JavaScript
 - jQuery
+https://thehasanovv.github.io/Star-wars-game/
